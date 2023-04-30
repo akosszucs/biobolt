@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/AndroidProjects/BIO SHOP/app/src/main/res/drawable/circle.xml" value="0.123" />
+        <entry key="..\:/AndroidProjects/BIO SHOP/app/src/main/res/layout-land/activity_main.xml" value="0.36331569664902996" />
+        <entry key="..\:/AndroidProjects/BIO SHOP/app/src/main/res/layout/activity_main.xml" value="0.3641304347826087" />
+        <entry key="..\:/AndroidProjects/BIO SHOP/app/src/main/res/layout/activity_register.xml" value="0.42916666666666664" />
+        <entry key="..\:/AndroidProjects/BIO SHOP/app/src/main/res/layout/activity_shop_list.xml" value="0.23020833333333332" />
+        <entry key="..\:/AndroidProjects/BIO SHOP/app/src/main/res/layout/custom_menu_item.xml" value="0.42916666666666664" />
+        <entry key="..\:/AndroidProjects/BIO SHOP/app/src/main/res/layout/list_item.xml" value="0.41893115942028986" />
+      </map>
+    </option>
+  </component>
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="jbr-11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
