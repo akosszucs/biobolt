@@ -88,21 +88,6 @@
         tools:ignore="OnClick" />
 
     <Button
-        android:id="@+id/googleSignInButton"
-        android:layout_width="0dp"
-        android:layout_height="wrap_content"
-        android:layout_marginLeft="100dp"
-        android:layout_marginRight="100dp"
-        android:onClick="loginWithGoogle"
-        android:text="@string/google_login"
-        app:backgroundTint="#4CAF50"
-        app:cornerRadius="40px"
-        app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.551"
-        app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toBottomOf="@+id/guestLoginButton" />
-
-    <Button
         android:id="@+id/registerButton"
         android:layout_width="0dp"
         android:layout_height="wrap_content"
@@ -115,6 +100,6 @@
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.551"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toBottomOf="@+id/googleSignInButton" />
+        app:layout_constraintTop_toBottomOf="@+id/guestLoginButton" />
 
 </androidx.constraintlayout.widget.ConstraintLayout>
